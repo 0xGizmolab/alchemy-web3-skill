@@ -88,8 +88,8 @@ clawhub install alchemy-web3
 ### Manual
 
 ```bash
-git clone https://github.com/AliGizmo/alchemy-web3.git
-cd alchemy-web3
+git clone https://github.com/0xGizmolab/alchemy-web3-skill.git
+cd alchemy-web3-skill
 chmod +x scripts/alchemy.sh
 ```
 

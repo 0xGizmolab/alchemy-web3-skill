@@ -1,9 +1,28 @@
 ---
 name: alchemy-web3
-version: 1.0.0
+version: 1.0.1
 description: Interact with Alchemy's Web3 APIs for blockchain data, NFTs, tokens, transfers, and webhooks across 80+ chains.
 author: GizmoLab
 website: https://gizmolab.io
+homepage: https://github.com/0xGizmolab/alchemy-web3-skill
+repository: https://github.com/0xGizmolab/alchemy-web3-skill
+metadata:
+  openclaw:
+    requires:
+      env:
+        - name: ALCHEMY_API_KEY
+          required: true
+          description: Your Alchemy API key from dashboard.alchemy.com
+        - name: ALCHEMY_CHAIN
+          required: false
+          default: eth-mainnet
+          description: Default chain to query (e.g., eth-mainnet, polygon-mainnet, arb-mainnet)
+    credentials:
+      - id: alchemy
+        name: Alchemy API Key
+        env: ALCHEMY_API_KEY
+        url: https://www.alchemy.com/?utm_source=gizmolab&utm_medium=skill&utm_campaign=alchemy-web3
+        description: Free API key from Alchemy for blockchain data access
 ---
 
 # Alchemy Web3 Skill
