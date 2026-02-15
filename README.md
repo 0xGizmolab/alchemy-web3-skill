@@ -7,6 +7,14 @@
 
 Get NFTs, token balances, transaction history, and more using Alchemy's production-grade APIs. Works for human devs AND AI agents.
 
+## Quick Start
+
+```bash
+npx skills add 0xGizmolab/alchemy-web3-skill
+```
+
+Works with Claude Code, Cursor, OpenCode, Windsurf, and [35+ other agents](https://skills.sh).
+
 ## Features
 
 - 🔍 Query any wallet's NFTs, tokens, balances
@@ -14,7 +22,7 @@ Get NFTs, token balances, transaction history, and more using Alchemy's producti
 - 🤖 AI agent workflows included
 - 🛠️ Simple CLI + curl examples + JS SDK
 
-## Quick Start
+## Setup
 
 ### 1. Get API Key
 
