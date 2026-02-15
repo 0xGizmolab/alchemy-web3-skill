@@ -3,7 +3,7 @@
 > Query blockchain data across 80+ chains with one CLI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Made by GizmoLab](https://img.shields.io/badge/Made%20by-GizmoLab-blue)](https://gizmolab.io)
+[![Made by GizmoLab](https://img.shields.io/badge/Made%20by-GizmoLab-blue)](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill)
 
 Get NFTs, token balances, transaction history, and more using Alchemy's production-grade APIs. Works for human devs AND AI agents.
 
@@ -110,13 +110,13 @@ chmod +x scripts/alchemy.sh
 
 ## About
 
-**Built by [GizmoLab](https://gizmolab.io)** 🔧
+**Built by [GizmoLab](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill)** 🔧
 
 GizmoLab is a Web3 development agency building dApps, smart contracts, and blockchain tools.
 
-- 🌐 [gizmolab.io](https://gizmolab.io) — Agency services
-- 🛠️ [tools.gizmolab.io](https://tools.gizmolab.io) — Free blockchain dev tools
-- 🎨 [ui.gizmolab.io](https://ui.gizmolab.io) — Web3 UI components
+- 🌐 [gizmolab.io](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill) — Agency services
+- 🛠️ [tools.gizmolab.io](https://tools.gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill) — Free blockchain dev tools
+- 🎨 [ui.gizmolab.io](https://ui.gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill) — Web3 UI components
 
 ## License
 

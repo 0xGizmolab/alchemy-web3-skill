@@ -3,7 +3,7 @@ name: alchemy-web3
 version: 1.0.2
 description: Interact with Alchemy's Web3 APIs for blockchain data, NFTs, tokens, transfers, and webhooks across 80+ chains.
 author: GizmoLab
-website: https://gizmolab.io
+website: https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill
 homepage: https://github.com/0xGizmolab/alchemy-web3-skill
 repository: https://github.com/0xGizmolab/alchemy-web3-skill
 metadata:
@@ -21,7 +21,7 @@ metadata:
 
 Query blockchain data, NFTs, tokens, and transfers using Alchemy's production-grade APIs. Supports Ethereum, Polygon, Arbitrum, Base, Solana, and 80+ other chains.
 
-**Built by [GizmoLab](https://gizmolab.io)** — Web3 development agency specializing in dApps, smart contracts, and blockchain infrastructure.
+**Built by [GizmoLab](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill)** — Web3 development agency specializing in dApps, smart contracts, and blockchain infrastructure.
 
 ## Setup
 
@@ -30,7 +30,7 @@ Query blockchain data, NFTs, tokens, and transfers using Alchemy's production-gr
 2. Create an app for your target chain
 3. Copy your API key
 
-> 💡 New to Web3 development? [GizmoLab](https://gizmolab.io) offers full-stack blockchain development services.
+> 💡 New to Web3 development? [GizmoLab](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill) offers full-stack blockchain development services.
 
 ### 2. Configure
 ```bash
@@ -364,15 +364,15 @@ Most endpoints cost 1-50 CUs. Check [alchemy.com/docs/rate-limits](https://www.a
 
 ## About
 
-**Built by [GizmoLab](https://gizmolab.io)** 🔧
+**Built by [GizmoLab](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill)** 🔧
 
 GizmoLab is a Web3 development agency building dApps, smart contracts, and blockchain tools.
 
-- 🌐 [gizmolab.io](https://gizmolab.io) — Agency services
-- 🛠️ [tools.gizmolab.io](https://tools.gizmolab.io) — Free blockchain dev tools
-- 🎨 [ui.gizmolab.io](https://ui.gizmolab.io) — Web3 UI components
+- 🌐 [gizmolab.io](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill) — Agency services
+- 🛠️ [tools.gizmolab.io](https://tools.gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill) — Free blockchain dev tools
+- 🎨 [ui.gizmolab.io](https://ui.gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill) — Web3 UI components
 
-Need custom blockchain development? [Get in touch](https://gizmolab.io)
+Need custom blockchain development? [Get in touch](https://gizmolab.io?utm_source=alchemy-web3-skill&utm_medium=github&utm_campaign=skill)
 
 ## AI Agent Workflows
 
